@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **coleh304@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Link to my online portfolio:
+https://online-portfolio-e07e9.web.app
+</h3>
 <p align="left">
 </p>
 
